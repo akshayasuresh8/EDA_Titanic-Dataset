@@ -1,9 +1,3 @@
-# EDA_Titanic-Dataset
-
-Here's a more detailed version:
-
----
-
 # Titanic Data Analysis
 
 This project explores the Titanic dataset to understand the factors affecting passenger survival. The analysis is conducted using Python with libraries like `pandas`, `numpy`, `matplotlib`, and `seaborn`.
